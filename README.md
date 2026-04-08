@@ -36,4 +36,4 @@ cd project
 
 ## 
 #### 
-https://productivityassistant-174331350858.asia-south1.run.app/ --- deployment link
+https://productivityassistant-174331350858.asia-south1.run.app --- deployment link
